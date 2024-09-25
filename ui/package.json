@@ -106,7 +106,7 @@
     "relay-runtime": "^15.0.0",
     "styled-jsx": "^5.1.2",
     "tar": "^7.4.3",
-    "universal-cookie": "^7.1.4",
+    "universal-cookie": "^7.2.0",
     "uuid": "^9.0.1",
     "xstate": "^5.13.0"
   },
