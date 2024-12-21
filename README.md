@@ -55,8 +55,7 @@ A self-service engineering platform, <a href="https://meshery.io">Meshery</a>, i
 
 # kubectl meshsync snapshot
 
-A `kubectl` plugin for rendering Kanvas Snapshots. `kanvas snapshot` is a native kubectl plugin for conveniently creating a visual snapshot of the combination of multiple Kubernetes manifest files, each containing one or more Kubernetes resources. A native kubetcl CLI plugin for conveniently creating a visual snapshot of a collection of Kubernetes manifests.
-</p>
+A `kubectl` plugin for performing an ad hoc collection of resource information from a Kubernetes cluster and sending the cluster resources details to a Meshery Server. `kubectl meshsync snapshot` is a native kubectl plugin for conveniently synchronizing the state of your cluster with Meshery Server.
 
 ## About Meshery Extensions
 
