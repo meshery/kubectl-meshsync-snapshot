@@ -13,8 +13,6 @@ alt="Meshery Logo" width="70%" /></picture></a><br /><br /></p>
   <img src="https://img.shields.io/github/license/meshery/meshery?color=brightgreen" /></a>
 <a href="https://artifacthub.io/packages/helm/meshery/meshery" alt="Artifact Hub Meshery">
   <img src="https://img.shields.io/endpoint?color=brightgreen&label=Helm%20Chart&style=plastic&url=https%3A%2F%2Fartifacthub.io%2Fbadge%2Frepository%2Fartifact-hub" /></a>  
-<a href="https://goreportcard.com/report/github.com/meshery/meshery" alt="Go Report Card">
-  <img src="https://goreportcard.com/badge/github.com/meshery/meshery" /></a>
 <a href="https://github.com/meshery/meshery/actions" alt="Build Status">
   <img src="https://img.shields.io/github/actions/workflow/status/meshery/meshery/release-drafter.yml" /></a>
 <a href="https://bestpractices.coreinfrastructure.org/projects/3564" alt="CLI Best Practices">
@@ -27,6 +25,7 @@ alt="Meshery Logo" width="70%" /></picture></a><br /><br /></p>
   <img src="https://img.shields.io/twitter/follow/mesheryio.svg?label=Follow+Meshery&style=social" /></a>
 <a href="https://github.com/meshery/meshery/releases" alt="Meshery Downloads">
   <img src="https://img.shields.io/github/downloads/meshery/meshery/total" /></a>  
+<a href="https://github.com/meshery/meshery/blob/master/GOVERNANCE.md#extensions-githubcommeshery-extensions"><img src="https://img.shields.io/badge/support-community-00B39F?style=flat-square&logo=meshery&logoColor=white"  alt="Level of support for this repo"></a>
 <!-- <a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fmeshery%2Fmeshery?ref=badge_shield" alt="License Scan Report">
   <img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmeshery%2Fmeshery.svg?type=shield"/></a>  
   -->
